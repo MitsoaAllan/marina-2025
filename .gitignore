@@ -3,3 +3,6 @@
 *.cmo
 *.log
 *.cache
+marina
+node_modules
+Dockerfile

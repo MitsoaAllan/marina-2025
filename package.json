@@ -1,0 +1,24 @@
+{
+  "name": "marina-2025",
+  "version": "1.0.0",
+  "description": "Yet another SAT solver in Ocaml, _marina_ being the Malagasy word for _True_.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./marina-api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitsoaAllan/marina-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitsoaAllan/marina-2025/issues"
+  },
+  "homepage": "https://github.com/MitsoaAllan/marina-2025#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
